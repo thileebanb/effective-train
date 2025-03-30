@@ -1,0 +1,5 @@
+#+title: Effective Train
+#+date: <2025-03-30 Sun>
+
+* Effective Train
+A LeetCode problems and solutions
