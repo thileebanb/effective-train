@@ -6,7 +6,7 @@ environment:
   sdk: ^3.5.1
 
 # Add regular dependencies here.
-dependencies:
+# dependencies:
 
 dev_dependencies:
   lints: ^4.0.0
